@@ -1,0 +1,12 @@
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/bin/Debug/net9.0/Containers.deps.json
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/bin/Debug/net9.0/Containers.dll
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/bin/Debug/net9.0/Containers.pdb
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/obj/Debug/net9.0/Containers.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/obj/Debug/net9.0/Containers.AssemblyInfoInputs.cache
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/obj/Debug/net9.0/Containers.AssemblyInfo.cs
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/obj/Debug/net9.0/Containers.csproj.CoreCompileInputs.cache
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/obj/Debug/net9.0/Containers.sourcelink.json
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/obj/Debug/net9.0/Containers.dll
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/obj/Debug/net9.0/refint/Containers.dll
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/obj/Debug/net9.0/Containers.pdb
+/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/obj/Debug/net9.0/ref/Containers.dll
