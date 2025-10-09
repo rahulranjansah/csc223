@@ -8,6 +8,7 @@ namespace AST
     /// while avoiding object creation
     /// </summary>
     /// This is the meat of the default building process write clean builders get rid of override.
+    /// Base calls the member of the immediate parent class and invokes it.
     public class DebugBuilder : DefaultBuilder
     {
         // Override all creation methods to return null
@@ -92,7 +93,7 @@ namespace AST
         {
             if (value == null)
             {
-                throw new ArgumentNullExpception("value null");
+                throw new ArgumentNullException("value null");
             }
             return base.CreateLiteralNode(value);
         }
@@ -105,10 +106,7 @@ namespace AST
 
         public override AssignmentStmt CreateAssignmentStmt(VariableNode variable, ExpressionNode expression)
         {
-            if (variable == null || expression == null)
-            {
-                throw new ArugmentNullException("either your variable or expression is null");
-            }
+            if (variable == null || expression == null) { throw new ArgumentNullException("either your variable or expression is null"); }
             return base.CreateAssignmentStmt(variable, expression);
         }
 
@@ -117,11 +115,13 @@ namespace AST
             if (expression == null) { throw new ArgumentNullException("expression errors"); }
             return base.CreateReturnStmt(expression);
         }
-
-        public override BlockStmt CreateBlockStmt(SymbolTable<string, object> symbolTable)
+        public override BlockStmt CreateBlockStmt(List<Statement> statements)
         {
-            if (symbolTable == null) { throw new ArugmentNullException("symbol table string, object is off"); }
+            if (statements == null)
+                throw new ArgumentNullException("Statements not found");
+
+            return base.CreateBlockStmt(statements);
         }
-        return base.CreateBlockStmt(symboltable);
+
     }
 }

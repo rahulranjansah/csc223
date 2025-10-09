@@ -948,11 +948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Tokenizer.Tests/Tokenizer.Tests.csproj",
+      "projectUniqueName": "/mnt/hardisk/csc223/labs/src/Tokenizer.Tests/Tokenizer.Tests.csproj",
       "projectName": "Tokenizer.Tests",
-      "projectPath": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Tokenizer.Tests/Tokenizer.Tests.csproj",
+      "projectPath": "/mnt/hardisk/csc223/labs/src/Tokenizer.Tests/Tokenizer.Tests.csproj",
       "packagesPath": "/home/astavak/.nuget/packages/",
-      "outputPath": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Tokenizer.Tests/obj/",
+      "outputPath": "/mnt/hardisk/csc223/labs/src/Tokenizer.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/astavak/.nuget/NuGet/NuGet.Config"

@@ -948,11 +948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/AST/Builders.Tests/Builders.Tests.csproj",
+      "projectUniqueName": "/mnt/hardisk/csc223/labs/src/AST/Builders.Tests/Builders.Tests.csproj",
       "projectName": "Builders.Tests",
-      "projectPath": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/AST/Builders.Tests/Builders.Tests.csproj",
+      "projectPath": "/mnt/hardisk/csc223/labs/src/AST/Builders.Tests/Builders.Tests.csproj",
       "packagesPath": "/home/astavak/.nuget/packages/",
-      "outputPath": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/AST/Builders.Tests/obj/",
+      "outputPath": "/mnt/hardisk/csc223/labs/src/AST/Builders.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/astavak/.nuget/NuGet/NuGet.Config"

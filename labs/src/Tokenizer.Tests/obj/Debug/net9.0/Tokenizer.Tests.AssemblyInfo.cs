@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tokenizer.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c91a6c7b49f05277c04ab07c6eb93a37d7d2734")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5755886c6a9a129df77159874b9b5fe2a69488c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tokenizer.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tokenizer.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

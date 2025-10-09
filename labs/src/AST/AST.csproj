@@ -8,6 +8,7 @@
 
 <ItemGroup>
   <ProjectReference Include="../Utilities/Containers/Containers.csproj" />
+  <ProjectReference Include="..\Utilities\Utilities.csproj" />
 </ItemGroup>
 
 </Project>
