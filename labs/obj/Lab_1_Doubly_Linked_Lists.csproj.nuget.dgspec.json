@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/Lab_1_Doubly_Linked_Lists.csproj": {}
+    "/mnt/hardisk/csc223/labs/Lab_1_Doubly_Linked_Lists.csproj": {}
   },
   "projects": {
-    "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/Lab_1_Doubly_Linked_Lists.csproj": {
+    "/mnt/hardisk/csc223/labs/Lab_1_Doubly_Linked_Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/Lab_1_Doubly_Linked_Lists.csproj",
+        "projectUniqueName": "/mnt/hardisk/csc223/labs/Lab_1_Doubly_Linked_Lists.csproj",
         "projectName": "Lab_1_Doubly_Linked_Lists",
-        "projectPath": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/Lab_1_Doubly_Linked_Lists.csproj",
+        "projectPath": "/mnt/hardisk/csc223/labs/Lab_1_Doubly_Linked_Lists.csproj",
         "packagesPath": "/home/astavak/.nuget/packages/",
-        "outputPath": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/obj/",
+        "outputPath": "/mnt/hardisk/csc223/labs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/astavak/.nuget/NuGet/NuGet.Config"

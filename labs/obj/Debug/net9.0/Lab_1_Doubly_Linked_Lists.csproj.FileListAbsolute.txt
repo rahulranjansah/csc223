@@ -94,3 +94,7 @@
 /mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/obj/Debug/net9.0/Lab_1_Doubly_Linked_Lists.pdb
 /mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/obj/Debug/net9.0/Lab_1_Doubly_Linked_Lists.genruntimeconfig.cache
 /mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/obj/Debug/net9.0/ref/Lab_1_Doubly_Linked_Lists.dll
+/mnt/hardisk/csc223/labs/obj/Debug/net9.0/Lab_1_Doubly_Linked_Lists.csproj.AssemblyReference.cache
+/mnt/hardisk/csc223/labs/obj/Debug/net9.0/Lab_1_Doubly_Linked_Lists.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hardisk/csc223/labs/obj/Debug/net9.0/Lab_1_Doubly_Linked_Lists.csproj.CoreCompileInputs.cache
+/mnt/hardisk/csc223/labs/obj/Debug/net9.0/Lab_1_Doubly_Linked_Lists.sourcelink.json

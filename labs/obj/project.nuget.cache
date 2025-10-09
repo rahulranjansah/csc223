@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SrugMUD+cqM=",
+  "dgSpecHash": "6Dg8Q8cQ4rQ=",
   "success": true,
-  "projectFilePath": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/Lab_1_Doubly_Linked_Lists.csproj",
+  "projectFilePath": "/mnt/hardisk/csc223/labs/Lab_1_Doubly_Linked_Lists.csproj",
   "expectedPackageFiles": [
     "/home/astavak/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/home/astavak/.nuget/packages/microsoft.codecoverage/17.12.0/microsoft.codecoverage.17.12.0.nupkg.sha512",
