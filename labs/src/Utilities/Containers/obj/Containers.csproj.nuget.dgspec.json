@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/Containers.csproj": {}
+    "/mnt/hardisk/csc223/labs/src/Utilities/Containers/Containers.csproj": {}
   },
   "projects": {
-    "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/Containers.csproj": {
+    "/mnt/hardisk/csc223/labs/src/Utilities/Containers/Containers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/Containers.csproj",
+        "projectUniqueName": "/mnt/hardisk/csc223/labs/src/Utilities/Containers/Containers.csproj",
         "projectName": "Containers",
-        "projectPath": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/Containers.csproj",
+        "projectPath": "/mnt/hardisk/csc223/labs/src/Utilities/Containers/Containers.csproj",
         "packagesPath": "/home/astavak/.nuget/packages/",
-        "outputPath": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/Utilities/Containers/obj/",
+        "outputPath": "/mnt/hardisk/csc223/labs/src/Utilities/Containers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/astavak/.nuget/NuGet/NuGet.Config"

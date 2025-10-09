@@ -7,67 +7,68 @@ namespace AST
     /// NullBuilder that does not create any objects; useful for assessing parsing problems
     /// while avoiding object creation
     /// </summary>
-    public class NullBuilder : DefaultBuilder
+    /// This is the meat of the default building process write clean builders get rid of override.
+    public class DefaultBuilder
     {
         // Override all creation methods to return null
         public override PlusNode CreatePlusNode(ExpressionNode left, ExpressionNode right)
         {
-            return null;
+            return new PlusNode(left, right);
         }
 
         public override MinusNode CreateMinusNode(ExpressionNode left, ExpressionNode right)
         {
-            return null;
+            return new MinusNode(left, right);
         }
 
         public override TimesNode CreateTimesNode(ExpressionNode left, ExpressionNode right)
         {
-            return null;
+            return new TimesNode(left, right);
         }
 
         public override FloatDivNode CreateFloatDivNode(ExpressionNode left, ExpressionNode right)
         {
-            return null;
+            return new FloatDivNode(left, right);
         }
 
         public override IntDivNode CreateIntDivNode(ExpressionNode left, ExpressionNode right)
         {
-            return null;
+            return new IntDivNode(left, right);
         }
 
         public override ModulusNode CreateModulusNode(ExpressionNode left, ExpressionNode right)
         {
-            return null;
+            return new ModulusNode(left, right);
         }
 
         public override ExponentiationNode CreateExponentiationNode(ExpressionNode left, ExpressionNode right)
         {
-            return null;
+            return new ExponentiationNode(left, right);
         }
 
         public override LiteralNode CreateLiteralNode(object value)
         {
-            return null;
+            return new LiteralNode(value);
         }
 
         public override VariableNode CreateVariableNode(string name)
         {
-            return null;
+            return new VariableNode(name);
         }
 
         public override AssignmentStmt CreateAssignmentStmt(VariableNode variable, ExpressionNode expression)
         {
-            return null;
+            return new CreateAssignmentStmt(variable, expression);
         }
 
         public override ReturnStmt CreateReturnStmt(ExpressionNode expression)
         {
-            return null;
+            return new ReturnStmt(expression);
         }
 
         public override BlockStmt CreateBlockStmt(SymbolTable<string, object> symbolTable)
         {
-            return null;
+            return new BlockStmt(symbolTable);
         }
     }
 }

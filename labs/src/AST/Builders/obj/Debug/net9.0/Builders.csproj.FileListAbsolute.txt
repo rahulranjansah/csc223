@@ -1,0 +1,5 @@
+/mnt/hardisk/csc223/labs/src/AST/Builders/obj/Debug/net9.0/Builders.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hardisk/csc223/labs/src/AST/Builders/obj/Debug/net9.0/Builders.AssemblyInfoInputs.cache
+/mnt/hardisk/csc223/labs/src/AST/Builders/obj/Debug/net9.0/Builders.AssemblyInfo.cs
+/mnt/hardisk/csc223/labs/src/AST/Builders/obj/Debug/net9.0/Builders.csproj.CoreCompileInputs.cache
+/mnt/hardisk/csc223/labs/src/AST/Builders/obj/Debug/net9.0/Builders.sourcelink.json

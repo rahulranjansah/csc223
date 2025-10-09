@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nXVW2/DuPY8=",
+  "dgSpecHash": "64EJmHHgQ/k=",
   "success": true,
-  "projectFilePath": "/mnt/hardisk/Lab_1_Doubly_Linked_List_CSC223/Lab_1_Doubly_Linked_Lists/src/AST/Builders/Builders.csproj",
+  "projectFilePath": "/mnt/hardisk/csc223/labs/src/AST/Builders/Builders.csproj",
   "expectedPackageFiles": [
     "/home/astavak/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
   ],

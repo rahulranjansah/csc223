@@ -1,0 +1,6 @@
+/mnt/hardisk/csc223/labs/src/AST/obj/Debug/net9.0/AST.csproj.AssemblyReference.cache
+/mnt/hardisk/csc223/labs/src/AST/obj/Debug/net9.0/AST.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/hardisk/csc223/labs/src/AST/obj/Debug/net9.0/AST.AssemblyInfoInputs.cache
+/mnt/hardisk/csc223/labs/src/AST/obj/Debug/net9.0/AST.AssemblyInfo.cs
+/mnt/hardisk/csc223/labs/src/AST/obj/Debug/net9.0/AST.csproj.CoreCompileInputs.cache
+/mnt/hardisk/csc223/labs/src/AST/obj/Debug/net9.0/AST.sourcelink.json
